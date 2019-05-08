@@ -1,2 +1,2 @@
 #MyApp
- This application is designed so you guys can undestand how to create dynamic bar charts. You can alos add values from the form see the graphical results. 
+ This application is designed so you guys can undestand how to create dynamic bar charts. You can also add data to database from the form see the graphical results. 
